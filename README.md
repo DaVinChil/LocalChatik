@@ -5,6 +5,8 @@ Local Chatik is a console network chat.
 ## Usage
 ------
 
+Firstly you have
+
 In order to launch server, run ChatServer.java.
 
 ```bash
